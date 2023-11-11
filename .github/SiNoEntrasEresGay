@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Estás infectado :) </title>
+<style>
+p { font-family: 'Gotham', sans-serif;
+    font-size: 30px;
+    color: #00ff2a;
+    text-align: center;
+}
+h1 {font-family: 'Gotham', sans-serif;
+    color: #00ff2a;
+    text-align: center;
+    font-size: 50px;
+}
+strong {text-align: center;}
+body {background-color: #000;}
+
+</style>
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1>Estas infectado</h1>
+<strong><p>Ahora tienes que compartir el link que te di con alguien mas</p></strong>
+</body>
+</html>
